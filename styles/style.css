@@ -231,8 +231,7 @@
     transition: transform 0.5s ease-in-out;
     transform: translateX(-100%);
     inline-size: 100%;
-    block-size: 100%; 
-    
+    block-size: 100%;
   }
 
   .button:hover::before {
@@ -240,7 +239,6 @@
   } 
 
   .card__like-button {
-    border: none;
     border: 2px solid var(--acent-color);
     padding: 12.5px 37px;
     color: var(--acent-color);
@@ -273,7 +271,7 @@
     mix-blend-mode: difference;
   }
 
-  .dialog__save-open {   
+  .dialog__save-open {
     inline-size: clamp(21.313rem, 1.127vw + 21.048rem, 22.063rem);
   }
 
@@ -357,7 +355,7 @@
     }
 
     .content {
-      padding: 25px 28.9px 25px; 
+      padding: 25px 28.9px 25px;
     }
 
     .save__button {
