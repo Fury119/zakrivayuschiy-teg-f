@@ -1,1 +1,1 @@
-https://github.com/Fury119/zakrivayuschiy-teg-f
+https://fury119.github.io/zakrivayuschiy-teg-f/
